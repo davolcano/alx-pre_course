@@ -1,0 +1,9 @@
+git config --global user.email "alfy4eva@gmail.com"
+
+git config --global user.name "Davolcano"
+
+git add .
+
+git commit -m 'Hot fix'
+
+git push
